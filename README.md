@@ -1,8 +1,7 @@
 # TRX City Smart Surveillance POC
 
 **Project:** Point of Interest (POI) Detection & Alert Testing for Smart Surveillance
-**Role:** Computer Vision / Data Engineer
-**Date:** August 2026
+
 
 ## 📌 Project Overview
 This Proof of Concept (POC) project was developed for the TRX City Smart Surveillance system. The objective was to train a custom computer vision model to automatically detect specific urban infrastructure anomalies and security scenarios in real-time, specifically focusing on open/closed states of critical cabinets and overflowing rubbish bins.
