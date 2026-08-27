@@ -13,7 +13,7 @@ A real-time object detection pipeline built for the **Unitree B2 quadruped robot
 
 ## Data Collection & Annotation
 
-All training data was **collected in-house** from the Unitree B2 robot during live inspection runs:
+All training data was collected from the Unitree B2 robot during live inspection runs:
 
 1. **ROS 2 bag recording** — Raw camera feeds were captured as ROS 2 bag files (`.db3`) by subscribing to the B2's camera topics (e.g. `/camera/cam360_*/image_raw`). The bags contain timestamped image streams from the robot's 360° and front-facing cameras.
 
