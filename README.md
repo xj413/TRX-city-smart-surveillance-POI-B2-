@@ -1,8 +1,9 @@
 # B2 Robot Vision Models — Smart Surveillance Detection Pipeline
 
-<div align="center">
-  <img src="demo.gif" width="100%" alt="Detection Pipeline Demo — YOLOX-nano running on robot camera footage">
-</div>
+
+
+https://github.com/user-attachments/assets/0bdb560f-835e-4942-ad84-b17086d87944
+
 
 <br>
 
