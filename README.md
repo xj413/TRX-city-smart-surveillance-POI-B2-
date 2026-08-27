@@ -1,6 +1,10 @@
 # B2 Robot Vision Models - Detection Pipeline
 
-![Firehose Demo](demo.gif)
+
+
+https://github.com/user-attachments/assets/a86bfc95-d6a1-429e-a517-2054ff7a9d40
+
+
 A ready-to-run inference toolkit for the team's YOLOX-nano ONNX detectors — bin
 fullness, electrical cabinet state, and firehose cabinet state. Three ways to run
 it: a command line script, a multi-model command line script, and a point-and-click
